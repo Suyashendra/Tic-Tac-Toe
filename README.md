@@ -548,7 +548,6 @@ Player  O  turn. Choose your Block : 6
 
 Player  X  turn. Choose your Block : 7
 
-
               _____ _____ _____
              |     |     |     |
              |  X  |  O  |  X  |
@@ -556,6 +555,19 @@ Player  X  turn. Choose your Block : 7
              |     |     |     |
              |  X  |     |  O  |
              |_____|_____|_____|
+             |     |     |     |
+             |  X  |     |  O  |
+             |_____|_____|_____|
+
+
+Congratulations! Player  X  has won the game!!
+
+
+        --------------------------------
+                 SCORE BOARD
+        --------------------------------
+            A        1
+            B        0
         --------------------------------
 
 B will make the choice:
